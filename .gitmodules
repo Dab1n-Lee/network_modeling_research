@@ -1,0 +1,9 @@
+[submodule "repos/audiomae"]
+	path = repos/audiomae
+	url = https://github.com/Dab1n-Lee/AudioMAE
+[submodule "repos/encodec"]
+	path = repos/encodec
+	url = https://github.com/facebookresearch/encodec
+[submodule "repos/unilm"]
+	path = repos/unilm
+	url = https://github.com/microsoft/unilm
